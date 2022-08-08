@@ -22,31 +22,31 @@ The goal of this project is to use the imbalanced-learn and scikit-learn librari
 #### Oversampling 
 - Naive Random Oversampling
   - Balanced Accuracy Score: 64% 
-  - [Naive Random](Resources/Images/naive.png)
+  - ![Naive Random](Resources/Images/naive.png)
 
 - SMOTE Oversampling
   - Balanced Accuracy Score: 65% 
-  - [SMOTE](Resources/Images/smote.png)
+  - ![SMOTE](Resources/Images/smote.png)
 
 #### Undersampling 
 - Cluster Centroids Resampler
   - Balanced Accuracy Score: 52% 
-  - [Cluster Centroids](Resources/Images/ClusterCentroids.png)
+  - ![Cluster Centroids](Resources/Images/ClusterCentroids.png)
 
 #### Combination (Over and Under) Sampling
 - SMOTE Oversampling
   - Balanced Accuracy Score: 61% 
-  - [SMOTTEN](Resources/Images/smotten.png)
+  - ![SMOTTEN](Resources/Images/smotten.png)
 
 ----------------------------------
 ### Credit Risk Ensemble:
 - Balanced Random Forest Classifier
   - Balanced Accuracy Score: 79% 
-  - [Cluster Centroids](Resources/Images/ClusterCentroids.png)
+  - ![Cluster Centroids](Resources/Images/ClusterCentroids.png)
 
 - Easy Ensemble AdaBoost Classifier
   - Balanced Accuracy Score: 93% 
-  - [SMOTTEN](Resources/Images/smotten.png)
+  - ![SMOTTEN](Resources/Images/smotten.png)
 
 ## Summary
 It appears that Easy Ensemble AdaBoost Classifier with a 93% balanced accuracy fits the best for credit risk analysis compared to the other models. The precision in the other model ranged from 50% to 80% which in comparsion to Ensemble AdaBoost Classifier is not even close. 
