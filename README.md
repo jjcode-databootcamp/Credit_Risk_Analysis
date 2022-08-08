@@ -34,9 +34,9 @@ The goal of this project is to use the imbalanced-learn and scikit-learn librari
   - ![Cluster Centroids](Resources/Images/ClusterCentroids.png)
 
 #### Combination (Over and Under) Sampling
-- SMOTE Oversampling
+- SMOTENN 
   - Balanced Accuracy Score: 61% 
-  - ![SMOTTEN](Resources/Images/smotten.png)
+  - ![SMOTTENN](Resources/Images/smotten.png)
 
 ----------------------------------
 ### Credit Risk Ensemble:
